@@ -56,11 +56,19 @@ I'm a Computer Science undergraduate passionate about building scalable web appl
 ## 📜 Certifications
 
 - 🏅 AWS Certified AI Practitioner (AIF-C01)
+  (https://drive.google.com/file/d/15-Dv2mEigCjh1KA9nzyCSqVxRX9fBQ2N/view?usp=sharing)
+
 - 🏅 Infosys Springboard Virtual Internship 6.0
+  (https://www.linkedin.com/feed/update/urn:li:activity:7416926309752160256/)
+  
 - 🏅 Walmart Advanced Software Engineering Job Simulation
+  (https://www.linkedin.com/feed/update/urn:li:activity:7351589916046209024/)
+  
 - 🏅 Oracle AI Foundation Associate
+  (https://www.linkedin.com/feed/update/urn:li:activity:7369770045880721408/)
 
-
+- 🏅 Palo Alto Network Cyber Security Academy
+  (https://drive.google.com/file/d/1PBMZIHrSVehCZTe2-r5_LOAj2MKnBJNW/view)
 ---
 
 ⭐ Always learning, always building, and always ready for the next challenge!
